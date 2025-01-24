@@ -1,4 +1,4 @@
-his is a simple Tic Tac Toe game built using HTML, CSS, and JavaScript. The game allows two players to compete on a 3x3 grid, aiming to align three marks in a row, column, or diagonal to win the match. It's lightweight, responsive, and fun to play!
+this is a simple Tic Tac Toe game built using HTML, CSS, and JavaScript. The game allows two players to compete on a 3x3 grid, aiming to align three marks in a row, column, or diagonal to win the match. It's lightweight, responsive, and fun to play!
 
 🎯 Features
 Interactive Gameplay: Two-player mode with a smooth user interface.
